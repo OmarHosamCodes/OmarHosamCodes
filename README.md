@@ -4,7 +4,7 @@
 I am a passionate software developer with expertise in [Dart/Python/Javascript]. I love building [web and mobile applications] and exploring new technologies to solve complex problems.
 
 ## Tecnologies
-- [Flutter Frontend Engineering From Wireframe To Production Code]
+- [Flutter And React Frontend Engineering From Wireframe To Production Code]
 - [Dart Frog (Dart), ExpressJS (Javascript), Flask(Python)]
 - [Git/Github, NodeJS, Figma, Postman, Firebase, Supabase, MongoDB, HiveDB, IsarDB]
 
