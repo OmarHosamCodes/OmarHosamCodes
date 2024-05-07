@@ -14,7 +14,7 @@ Here are some of my notable projects:
 - [Quantum Muscle](https://github.com/OmarHosamCodes/quantum_muscle)
 - [My Website](https://github.com/OmarHosamCodes/oh_website)
 - [SimplyFitness.com Scrapper](https://github.com/OmarHosamCodes/Simply-Fitness-Web-Scrapper)
-- [Odin Cloth Wear Website](https://github.com/OmarHosamCodes/odin_cloth_wear)
+- [Odin Cloth Wear Website](https://github.com/OmarHosamCodes/odin-cloth-wear)
 
 
 
