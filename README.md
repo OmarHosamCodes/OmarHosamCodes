@@ -12,9 +12,10 @@ I am a passionate software developer with expertise in [Dart/Python/Javascript].
 Here are some of my notable projects:
 
 - [Quantum Muscle](https://github.com/OmarHosamCodes/quantum_muscle)
-- [Portfolio](https://github.com/OmarHosamCodes/oh_website)
+- [Portfolio](https://github.com/OmarHosamCodes/portfolio)
 - [SimplyFitness.com Scrapper](https://github.com/OmarHosamCodes/Simply-Fitness-Web-Scrapper)
 - [Odin Cloth Wear Website](https://github.com/OmarHosamCodes/odin-cloth-wear)
+- [Clash Royal Mastery Bot](https://github.com/OmarHosamCodes/MasteryBot)
 
 
 
