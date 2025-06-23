@@ -45,7 +45,6 @@ I'm a passionate software developer specializing in **Dart**, **Python**, and **
 
 ## 📫 Contact Me
 
-- **Email:** omarhosamcodes@gmail.com
+- **Email:** contact@omarhosamcodes.com
 - **Website:** [omarhosamcodes.com](https://omarhosamcodes.com)
 - **LinkedIn:** [linkedin.com/in/omarhosam](https://www.linkedin.com/in/omarhosam)
-- **Behance:** [behance.net/OmarHosamCodes](https://www.behance.net/OmarHosamCodes)
