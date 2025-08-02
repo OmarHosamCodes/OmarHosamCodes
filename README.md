@@ -1,6 +1,6 @@
 # Hello, I'm Omar Hosam! 👋
 
-I'm a passionate software developer specializing in **Dart**, **Python**, and **JavaScript**. I enjoy building web and mobile applications and exploring new technologies to solve complex problems.
+Full-stack software engineer with 5 years of hands-on experience in developing scalable, high-performance web applications and APIs. Specialized in SaaS, e-commerce, and microservices architecture using JavaScript, React, Node.js and PostgreSQL. Proven track record of leading teams, optimizing backend systems, and delivering responsive user-centric solutions.
 
 ## 🛠️ Technologies and Tools
 
