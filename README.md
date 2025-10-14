@@ -40,7 +40,7 @@ Full-stack software engineer with **6 years** of hands-on experience in developi
 
 ## 🚀 Notable Projects
 
-- **[Bowmen Stack](https://github.com/OmarHosamCodes/bowmen-stack):** Modern Full-Stack Web Application Boilerplate.
+- **[Comment Stack](https://github.com/OmarHosamCodes/comment-stack):** Modern Full-Stack Web Application Boilerplate.
 - **[Batch Analyzer](https://github.com/OmarHosamCodes/batch-analyzer):** A web application for analyzing and visualizing batch data using Next.js, Rust, and Bun.js.
 - **[WP Spotlight](https://github.com/OmarHosamCodes/wp-spotlight):** A WordPress plugin for spotlighting Hooks and Shortcodes for all plugins.
 - **[Order Manager Plus](https://github.com/OmarHosamCodes/Order-Manager-Plus-WP-Plugin):** A powerful WordPress plugin for managing customer orders.
