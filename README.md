@@ -75,4 +75,4 @@ Full-stack software engineer with **6 years** of hands-on experience in developi
 | :--- | :--- |
 | **Email** | [contact@omarhosamcodes.com](mailto:contact@omarhosamcodes.com) |
 | **Website** | [omarhosamcodes.com](https://omarhosamcodes.com) |
-| **LinkedIn** | [linkedin.com/in/omarhosam](https://www.linkedin.com/in/omarhosamcodes) |
+| **LinkedIn** | [linkedin.com/in/omarhosamcodes](https://www.linkedin.com/in/omarhosamcodes) |
